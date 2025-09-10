@@ -1,4 +1,4 @@
-# Zero to AI-Assisted Coding Confidence
+# Zero to AI-Assisted Coding Confidence [ Starting 10-09-25 ]
 
 > **Goal:** Build solid fundamentals so that when you use AI assistance or "vibe coding," you understand what's happening under the hood and can debug/optimize effectively.
 
